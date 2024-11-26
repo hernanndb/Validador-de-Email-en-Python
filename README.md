@@ -19,8 +19,8 @@ Hola,este pequeño archivo a traves de la consola realiza una verificacion de la
       
 5) Ejecutar el Archivo .py:
    
-      ```
+    ```
       python nombre_del_archivo.py
-      ```
+   ```
       
 7) El archivo te pedira que escribas una direccion de correo o palabra,luego verificara si es un correo correcto o no.
