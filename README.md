@@ -22,9 +22,8 @@
       
 5) Ejecutar el Archivo .py:
    - Utilizamos el comando para ejecutar:
-   
-    ```
-      python nombre_del_archivo.py
-   ```
+       ```
+          python nombre_del_archivo.py
+      ```
       
 7) El archivo te pedira que escribas una direccion de correo o palabra,luego verificara si es un correo correcto o no.
