@@ -10,9 +10,8 @@
         python --version
         ```
    
-   - En caso de Algun error o de no estar Instalado.
-     
-      Seguimos las intrucciones de la Documentacion oficial de Python : https://packaging.python.org/en/latest/tutorials/installing-packages/
+   - En caso de Algun error o de no estar Instalado:
+     Seguimos las intrucciones de la Documentacion oficial de Python : https://packaging.python.org/en/latest/tutorials/installing-packages/
 
 3) Navegar a la carpeta donde se encuentra el archivo .py :
    - Usa el comando cd (change directory) para navegar hasta la carpeta que contiene el archivo .py que quieres ejecutar. Por ejemplo:
