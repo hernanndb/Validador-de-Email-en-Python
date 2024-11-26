@@ -3,13 +3,11 @@
    Hola!! .Este pequeño archivo a traves de la consola realiza una verificacion de la direccion de email ingresada por el usuario,utilizando un bucle for,condicionales y un par de variables.
 
 # Pasos a seguir para la ejecucion del programa:
-1) Debemos Tener Instaladdo Python en Nuestro Sistema:
-
-   - Para Verificar que esta instalado,entramos en una terminal y escribimos el comando : 
+1) Debemos Tener Instalado Python en Nuestro Sistema:
+    - Para Verificar que esta instalado,entramos en una terminal y escribimos el comando : 
         ```python
         python --version
         ```
-   
    - En caso de Algun error o de no estar Instalado:
      Seguimos las intrucciones de la Documentacion oficial de Python : https://packaging.python.org/en/latest/tutorials/installing-packages/
 
