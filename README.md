@@ -21,6 +21,7 @@
         ```
       
 5) Ejecutar el Archivo .py:
+   - Utilizamos el comando para ejecutar:
    
     ```
       python nombre_del_archivo.py
