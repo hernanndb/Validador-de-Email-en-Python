@@ -16,14 +16,14 @@
 3) Navegar a la carpeta donde se encuentra el archivo .py :
    - Usa el comando cd (change directory) para navegar hasta la carpeta que contiene el archivo .py que quieres ejecutar. Por ejemplo:
 
-      ```
-          cd ruta/a/tu/carpeta
+        ```
+        cd ruta/a/tu/carpeta
         ```
       
 5) Ejecutar el Archivo .py:
    - Utilizamos el comando para ejecutar:
        ```
-          python nombre_del_archivo.py
-      ```
+       python nombre_del_archivo.py
+       ```
       
 7) El archivo te pedira que escribas una direccion de correo o palabra,luego verificara si es un correo correcto o no.
